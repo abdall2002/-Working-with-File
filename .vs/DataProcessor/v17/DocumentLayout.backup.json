@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|c:\\users\\training.3\\source\\repos\\dataprocessor\\dataprocessor\\binaryfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\binaryfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|c:\\users\\training.3\\source\\repos\\dataprocessor\\dataprocessor\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|c:\\users\\training.3\\source\\repos\\dataprocessor\\dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|c:\\users\\training.3\\source\\repos\\dataprocessor\\dataprocessor\\textfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\textfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|c:\\users\\training.3\\source\\repos\\dataprocessor\\dataprocessor\\filestoprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAF427-4009-44F1-95F8-D16DBC6C0D80}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\filestoprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\FileProcessor.cs",
+              "RelativeToolTip": "DataProcessor\\FileProcessor.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:33:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\BinaryFileProcessor.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\BinaryFileProcessor.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\BinaryFileProcessor.cs",
+              "RelativeToolTip": "DataProcessor\\BinaryFileProcessor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:33:21.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilesToProcess.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\FilesToProcess.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\FilesToProcess.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\FilesToProcess.cs",
+              "RelativeToolTip": "DataProcessor\\FilesToProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:31:39.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\TextFileProcessor.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\TextFileProcessor.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\TextFileProcessor.cs",
+              "RelativeToolTip": "DataProcessor\\TextFileProcessor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:12:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\DataProcessor\\DataProcessor\\Program.cs",
+              "RelativeToolTip": "DataProcessor\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:39:27.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
